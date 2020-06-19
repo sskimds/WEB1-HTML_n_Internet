@@ -1,0 +1,9 @@
+https://www.bitballoon.com/
+
+http://neocities.org/
+
+Amazon S3
+
+Google Cloud Storage
+
+Azure Blob
