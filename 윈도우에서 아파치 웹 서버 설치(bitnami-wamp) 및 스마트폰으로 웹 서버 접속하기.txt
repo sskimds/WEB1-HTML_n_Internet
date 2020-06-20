@@ -25,7 +25,7 @@ http://localhost/1.html
 file:///C:/Bitnami/wampstack-7.4.7-0/apache2/htdocs/1.html
 
 
-6. 웹 브라우저와 웹 서버의 통신
+5. 웹 브라우저와 웹 서버의 통신
 
 1) 웹 브라우저가 웹 서버에 요청할 때, 웹 서버의 주소(IP 주소)가 필요하다.
 
