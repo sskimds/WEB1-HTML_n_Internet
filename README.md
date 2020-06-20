@@ -3,7 +3,7 @@
 생활코딩에서 WEB1 - HTML & Internet을 
 공부하면서 올리는 곳 이다.
 
-해당 repository를 master로 변경한다음 
+해당 repository의 branch를 master로 변경한 다음 
 깃허브아이디.github.io/repository 이름을 도메인 주소창에 검색하면
 웹 브라우저에서 깃허브에 올린 html파일을 요청하여 확인할 수 있다.
 
